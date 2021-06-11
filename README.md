@@ -1,4 +1,4 @@
-## Signing typed data
+## IPFS Provider
 
 Провайдер взаимодействияя с IPFS сервером 
 
