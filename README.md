@@ -4,7 +4,7 @@
 
 ### Installation
 
-- `nmp install` - install all project dependencies
+- `nmp i` - install all project dependencies
 
 ### Running
 - локально
